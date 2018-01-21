@@ -85,7 +85,7 @@ build_script:
     lib/libLLVMInstCombine.a
     lib/libLLVMInstrumentation.a lib/libLLVMipo.a lib/libLLVMIRReader.a 
     lib/libLLVMLinker.a lib/libLLVMLTO.a lib/libLLVMMC.a lib/libLLVMMCDisassembler.a lib/libLLVMMCJIT.a
-    lib/libLLVMMCParser.a lib/libLLVMNVPTXAsmPrinter.a lib/libLLVMNVPTXCodeGen.a lib/libLLVMNVPTXDesc.a lib/libLLVMNVPTXInfo.a
+    lib/libLLVMMCParser.a
     lib/libLLVMObjCARCOpts.a lib/libLLVMObject.a lib/libLLVMOption.a lib/libLLVMPasses.a lib/libLLVMPowerPCAsmParser.a
     lib/libLLVMPowerPCAsmPrinter.a lib/libLLVMPowerPCCodeGen.a lib/libLLVMPowerPCDesc.a lib/libLLVMPowerPCDisassembler.a
     lib/libLLVMPowerPCInfo.a lib/libLLVMProfileData.a 
